@@ -1,0 +1,70 @@
+.nome{
+	color:blue;
+}
+.text{
+	color:black;
+}
+.topo{
+	background-color:#283d49; 
+	padding: 0;
+	width: 100%;
+	height: 65px;
+	float: left; 
+}
+.topo img{
+	float: left;
+}
+.topo a{
+	text-decoration: none;
+	color:white;
+	float: left;
+
+}
+input{
+	float: left;
+	margin-top:  20px;
+	width: 200px;
+	height: 30px;
+}
+.logo{
+	padding-left: 50px;
+	padding-top: 10px;
+	width: 55px;
+	height: 55px;
+	padding-right: 10px;
+}
+.fundo{
+	background-image: url("top_img.png");
+	width: 100%;
+	height: 300px;
+
+}
+.fundo img{
+	position: absolute;
+	left: 45%;
+	width: 200px;
+	height: 200px;
+	top: 120px;
+	border-radius: 50%;
+	border: 4px solid white;
+
+}
+.exp img{
+	width: 80px;
+	height: 80px;
+	padding-right: 15px;
+
+}
+body{
+	background-color: #F0FFFF;
+}
+.info{
+	text-align: center;
+}
+img{
+	float: left;
+}
+.tudo{
+	padding-left: 200px;
+	padding-right: 200px;
+}
